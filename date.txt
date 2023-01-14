@@ -1,4 +1,5 @@
 class Date{
+int d, m, y;
 public:
 	Date();
 };
